@@ -1,13 +1,13 @@
-# <Project name>
+# Relay
 
-<One paragraph: what we're building and who it's for.>
+Relay is an incident-response copilot: alerts come in, get clustered and scored, matched to runbooks, and an AI drafts a cited remediation plan that a human approves step by step. This repo is a walkthrough of the team board; no product code is being built here.
 
 What we're building and who owns which part: [IDEA.md](IDEA.md). Deadlines, rules and
 the team: [HACKATHON.md](HACKATHON.md). Who is doing what, live: the board linked in HACKATHON.md.
 
 ## Quick start
 
-1. `gh repo clone <this repo>`
+1. `gh repo clone atiladeokegab/relay-demo`
 2. Open your AI tool (Claude Code, Codex, Cursor, Copilot…) in the folder.
 3. Tell it: *"Read AGENTS.md, then pick up my issue."*
 
@@ -232,4 +232,4 @@ Every one of these happened for real while this kit was tested.
 
 ## Architecture
 
-<!-- the lead adds the C4 diagrams here -->
+
