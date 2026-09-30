@@ -43,13 +43,13 @@ contracts; only the lead changes it.
 | Area | Directories | Owner | Issues |
 |---|---|---|---|
 | core | `pyproject.toml`, `relay/core/`, `tests/core/` | @atiladeokegab [Zeus] | #2 |
-| ingest | `relay/ingest/`, `tests/ingest/` | @atiladeokegab [Prometheus] | #3 |
-| triage | `relay/triage/`, `tests/triage/` | @Atilmatrix | #4 |
-| runbooks | `relay/runbooks/`, `runbooks/`, `tests/runbooks/` | @atiladeokegab [Zeus] | #5 |
-| planner | `relay/planner/`, `tests/planner/` | @atiladeokegab [Zeus] | #6 |
-| notify | `relay/notify/`, `tests/notify/` | @atiladeokegab [Prometheus] | #8 |
-| postmortem | `relay/postmortem/`, `tests/postmortem/` | @Atilmatrix | #9 |
-| web | `web/` | @Atilmatrix | #7 |
+| ingest | `relay/ingest/`, `tests/ingest/` | @atiladeokegab [Prometheus] | #3, #16, #17, #18 |
+| triage | `relay/triage/`, `tests/triage/` | @Atilmatrix | #4, #28, #29, #30 |
+| runbooks | `relay/runbooks/`, `runbooks/`, `tests/runbooks/` | @atiladeokegab [Zeus] | #5, #19, #20, #21 |
+| planner | `relay/planner/`, `tests/planner/` | @atiladeokegab [Zeus] | #6, #22, #23, #24, #25 |
+| notify | `relay/notify/`, `tests/notify/` | @atiladeokegab [Prometheus] | #8, #26, #27 |
+| postmortem | `relay/postmortem/`, `tests/postmortem/` | @Atilmatrix | #9, #35, #36, #37 |
+| web | `web/` | @Atilmatrix | #7, #31, #32, #33, #34 |
 | samples | `samples/` | @atiladeokegab [Zeus] | #10 |
 | deploy | `deploy/`, `Dockerfile` | @atiladeokegab [Zeus] | #11 |
 | design | `docs/design.md`, `docs/mockup/` | @Atilmatrix | #1 |
