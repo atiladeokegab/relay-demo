@@ -42,15 +42,15 @@ contracts; only the lead changes it.
 
 | Area | Directories | Owner | Issues |
 |---|---|---|---|
-| core | `pyproject.toml`, `relay/core/`, `tests/core/` | — | — |
-| ingest | `relay/ingest/`, `tests/ingest/` | — | — |
-| triage | `relay/triage/`, `tests/triage/` | — | — |
-| runbooks | `relay/runbooks/`, `runbooks/`, `tests/runbooks/` | — | — |
-| planner | `relay/planner/`, `tests/planner/` | — | — |
-| notify | `relay/notify/`, `tests/notify/` | — | — |
-| postmortem | `relay/postmortem/`, `tests/postmortem/` | — | — |
-| web | `web/` | — | — |
-| samples | `samples/` | — | — |
-| deploy | `deploy/`, `Dockerfile` | — | — |
-| design | `docs/design.md`, `docs/mockup/` | — | — |
-| submission | `docs/demo.md`, `docs/submission.md`, `docs/architecture/` | — | — |
+| core | `pyproject.toml`, `relay/core/`, `tests/core/` | @atiladeokegab [Zeus] | #2 |
+| ingest | `relay/ingest/`, `tests/ingest/` | @atiladeokegab [Prometheus] | #3 |
+| triage | `relay/triage/`, `tests/triage/` | @Atilmatrix | #4 |
+| runbooks | `relay/runbooks/`, `runbooks/`, `tests/runbooks/` | @atiladeokegab [Zeus] | #5 |
+| planner | `relay/planner/`, `tests/planner/` | @atiladeokegab [Zeus] | #6 |
+| notify | `relay/notify/`, `tests/notify/` | @atiladeokegab [Prometheus] | #8 |
+| postmortem | `relay/postmortem/`, `tests/postmortem/` | @Atilmatrix | #9 |
+| web | `web/` | @Atilmatrix | #7 |
+| samples | `samples/` | @atiladeokegab [Zeus] | #10 |
+| deploy | `deploy/`, `Dockerfile` | @atiladeokegab [Zeus] | #11 |
+| design | `docs/design.md`, `docs/mockup/` | @Atilmatrix | #1 |
+| submission | `docs/demo.md`, `docs/submission.md`, `docs/architecture/` | @atiladeokegab [Hermes], pool, @Atilmatrix, @atiladeokegab [Zeus] | #12, #13, #14, #15 |
